@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GestionJVS.Properties
+namespace GestJVS.Properties
 {
 
 
